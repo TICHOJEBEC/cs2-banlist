@@ -44,7 +44,7 @@ Comming soon
 
 ## 🙇 Special Thanks
 
-- [Partiusfabaa](https://github.com/partiusfabaa) for amazing [[cs2-miniadmin]]https://github.com/partiusfabaa/cs2-MiniAdmin)
+- [Partiusfabaa](https://github.com/partiusfabaa) for amazing [cs2-miniadmin](https://github.com/partiusfabaa/cs2-MiniAdmin)
 
 ## 🙇 Sponsors
 
