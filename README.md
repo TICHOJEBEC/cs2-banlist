@@ -18,6 +18,10 @@ Simple banlist based on a similar principle as SourceBans.
 
 Try the tool: [Comming soon](#)
 
+## 💡 Contact
+
+Discord: TICHOJEBEC
+
 ## 🧐 Features
 
 Basic features of the system.
