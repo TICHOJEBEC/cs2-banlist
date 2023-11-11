@@ -24,7 +24,7 @@ Discord: TICHOJEBEC
 
 ## 🧐 Features
 
-<img src="https://i.ibb.co/mNL734G/1.png"/>
+<a href="https://ibb.co/ThhT0PD"><img src="https://i.ibb.co/ThhT0PD/1.jpg" alt="1" border="0" /></a>
 
 **Banlist**
 - List of bans based on nickname, SteamID, admin who issued the ban, reason for the ban, ban date, ban expiration, and the status indicating whether the ban is active.
